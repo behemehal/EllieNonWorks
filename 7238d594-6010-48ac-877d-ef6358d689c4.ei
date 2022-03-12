@@ -1,0 +1,18 @@
+// Issue ID = 7238d594-6010-48ac-877d-ef6358d689c4
+// Issue Type = compiler
+// Issue URL = https://api.github.com/repos/behemehal/EllieNonWorks/issues/3
+//
+// Env
+// ```
+// Ellie v0.3.0 - Code: BeautifulTropicalFish
+// 
+// Tokenizer Version: v0.2.0
+// Parser Version: v0.2.0
+// Runtime Version: v0.1.0
+// Core version: v0.2.0
+// Ellie Standard Types Version: v0.3.3
+// ```
+// 
+// 
+// Code Start
+v i : [int, i] = [1, 2, 3];
