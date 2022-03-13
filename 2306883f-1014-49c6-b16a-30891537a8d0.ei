@@ -1,0 +1,18 @@
+// Issue ID = 2306883f-1014-49c6-b16a-30891537a8d0
+// Issue Type = compiler
+// Issue URL = https://api.github.com/repos/behemehal/EllieNonWorks/issues/5
+//
+// Env
+// ```
+// Ellie v0.3.0 - Code: BeautifulTropicalFish
+// 
+// Tokenizer Version: v0.2.0
+// Parser Version: v0.2.0
+// Runtime Version: v0.1.0
+// Core version: v0.2.0
+// Ellie Standard Types Version: v0.3.3
+// ```
+// 
+// Code Start
+v ftest : float = 0.1 + 0.2;
+v dtest : double = 0.1 + 0.2;
