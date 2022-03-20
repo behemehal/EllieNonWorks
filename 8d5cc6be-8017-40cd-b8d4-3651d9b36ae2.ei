@@ -1,0 +1,17 @@
+// Issue ID = 8d5cc6be-8017-40cd-b8d4-3651d9b36ae2
+// Issue Type = compiler
+// Issue URL = https://api.github.com/repos/behemehal/EllieNonWorks/issues/6
+//
+// Env
+// ```
+// Ellie v0.3.0 - Code: BeautifulTropicalFish
+// 
+// Tokenizer Version: v0.2.0
+// Parser Version: v0.2.0
+// Runtime Version: v0.1.0
+// Core version: v0.2.0
+// Ellie Standard Types Version: v0.3.3
+// ```
+// 
+// Code Start
+v test = 1<2>2;
