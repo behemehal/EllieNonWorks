@@ -1,0 +1,21 @@
+// Issue ID = bae7275c-9a75-4773-9012-e4b2589aa53e
+// Issue Type = compiler
+// Issue URL = https://api.github.com/repos/behemehal/EllieNonWorks/issues/7
+//
+// Env
+// ```
+// Ellie v0.3.0 - Code: BeautifulTropicalFish
+// 
+// Tokenizer Version: v0.2.0
+// Parser Version: v0.2.0
+// Runtime Version: v0.1.0
+// Core version: v0.2.0
+// Ellie Standard Types Version: v0.3.3
+// ```
+// 
+// Code Start
+class Test {
+pub v te;
+}
+
+v test = Test.te;
