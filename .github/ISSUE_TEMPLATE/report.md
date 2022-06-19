@@ -2,7 +2,7 @@
 name: Case Report
 about: Create a bug report
 title: ''
-labels: bug
+labels: issue
 assignees: behemehalbot
 ---
 
@@ -18,3 +18,14 @@ Add a description of the bug.
 **Compiler Detailed Version output**
 
 Add the output from `elliec version -d`
+
+**About**
+
+- [x] EllieVM CLI               
+- [ ] EllieC CLI                
+- [ ] EllieFMT CLI              
+- [ ] Ellie Tokenizer           
+- [ ] Ellie Bytecode Transpiler 
+- [ ] Ellie Parser              
+- [ ] Ellie VM                  
+- [ ] Lia                       
