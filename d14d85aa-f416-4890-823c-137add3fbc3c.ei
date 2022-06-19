@@ -1,0 +1,17 @@
+// Issue ID = d14d85aa-f416-4890-823c-137add3fbc3c
+// Issue Type = compiler
+// Issue URL = https://api.github.com/repos/behemehal/EllieWorks/issues/8
+//
+// Env
+// ```
+// !!
+// ```
+// 
+// Code Start
+class Test<T> {}
+
+v test : Test<int> = new Test<int>();
+/// <int> in class constructor is unnecessary
+
+v test : [int, *] = [];
+//Left side of variable should have been casted as Vector<int> but casted as Array<dyn> instead.
