@@ -20,12 +20,13 @@ Add a description of the bug.
 Add the output from `elliec version -d`
 
 **About**
+Leave the subjects you think this is about.
 
-- [x] EllieVM CLI               
-- [ ] EllieC CLI                
-- [ ] EllieFMT CLI              
-- [ ] Ellie Tokenizer           
-- [ ] Ellie Bytecode Transpiler 
-- [ ] Ellie Parser              
-- [ ] Ellie VM                  
-- [ ] Lia                       
+- EllieVM CLI               
+- EllieC CLI                
+- EllieFMT CLI              
+- Ellie Tokenizer           
+- Ellie Bytecode Transpiler 
+- Ellie Parser              
+- Ellie VM                  
+- Lia          
